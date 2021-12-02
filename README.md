@@ -1,9 +1,9 @@
 # eco-bazaar
 
-1. react-app --- darshan
-2. host ---- darshan
-3. navbar --- anurag
-4. cards ---- darshan
-5. data --- anurag
-6. add to cart page ---- anurag
+1. react-app --- D
+2. host ---- D
+3. navbar --- A
+4. cards ---- A
+5. data --- A
+6. add to cart page ---- A
 7. 
