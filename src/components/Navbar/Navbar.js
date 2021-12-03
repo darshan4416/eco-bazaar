@@ -1,18 +1,23 @@
 import React from 'react';
 import "./navbar.css";
-
+import { Link } from "react-router-dom";
 function Navbar() {
     return (
         <>
     <header className="header">
-	    <h1 className="logo"><a href="#">Sustainable Waves</a></h1>
+	    <h1 className="logo"><Link to="/">Sustainable Waves</Link></h1>
         <ul className="main-nav">
-          <li><a href="#">Home</a></li>
-          <li><a href="#">Explore</a></li>
-          <li><a href="#">Login</a></li>
-          <li><a href="#">Register</a></li>
-          <li><a href="#">About</a></li>
+          <li><Link to='/'>Home</Link></li>
+          <li><Link to="/explore">Explore</Link></li>
+          <li><Link to="/login">Login</Link></li>
+          <li><Link to="/register">Register</Link></li>
+          <li><Link to="/about">About</Link></li>
         </ul>
+        <div className="basket-container">
+                    <div className="counter">
+                    <medium className="cart_count">0</medium>
+               </div>
+        </div>
 	</header> 
 
         </>
