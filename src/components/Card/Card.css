@@ -3,10 +3,18 @@ body {
   background-color: #fdf1ec;
 }
 
+/* .ProductParent{
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+} */
+
 .wrapper {
+  display: inline-block;
+  position: relative;
   height: 420px;
   width: 654px;
-  margin: 50px auto;
+  margin: 50px ;
   border-radius: 7px 7px 7px 7px;
   /* VIA CSS MATIC https://goo.gl/cIbnS */
   -webkit-box-shadow: 0px 14px 32px 0px rgba(0, 0, 0, 0.15);
