@@ -1,4 +1,4 @@
-[{
+const Products = [{
     "id": 1,
     "ProductName": "Pearson",
     "description": "Silvester",
@@ -100,3 +100,5 @@
     "price": "$679.27"
   }]
   
+
+export default Products;
