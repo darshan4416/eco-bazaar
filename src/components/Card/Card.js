@@ -15,7 +15,7 @@ function Card() {
               <div className="product-text">
                 <h1>{Product.ProductName}</h1>
                 <h2>We love Earth</h2>
-                <p>Lorem isdasasdfsjd <br /> of peeled fruits and vegetables as<br /> functional objects. The surfaces<br /> appear to be sliced and pulled aside,<br /> allowing room for growth. </p>
+                <p>Lorem Functional objects. The surfaces<br /> appear to be sliced and pulled aside,<br /> allowing room for growth. </p>
               </div>
               <div className="product-price-btn">
                 <p><span>{Product.price}</span></p>

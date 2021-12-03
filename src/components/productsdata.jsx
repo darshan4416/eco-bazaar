@@ -36,87 +36,87 @@ const Products = [{
     "price": "$839.23"
   }, {
     "id": 7,
-    "ProductName": "Elmside",
+    "ProductName": "Plant Kit",
     "description": "Lanfear",
-    "imgUrl":"Images/",
+    "imgUrl":"Images/PlantKit.jfif",
     "price": "$818.86"
   }, {
     "id": 8,
-    "ProductName": "Larry",
+    "ProductName": "Jute Bag (Customizable)",
     "description": "Bruckshaw",
-    "imgUrl":"Images/",
+    "imgUrl":"Images/custombag.jpg",
     "price": "$231.84"
   }, {
     "id": 9,
-    "ProductName": "Park Meadow",
+    "ProductName": "BreakFast Pack",
     "description": "Izsak",
-    "imgUrl":"Images/",
+    "imgUrl":"Images/BreakFastPack.jfif",
     "price": "$233.61"
   }, {
     "id": 10,
-    "ProductName": "Scott",
+    "ProductName": "Cooking Expert",
     "description": "Matveiko",
-    "imgUrl":"Images/",
+    "imgUrl":"Images/Cookingtools.jpg",
     "price": "$71.48"
   }, {
     "id": 11,
-    "ProductName": "Hooker",
+    "ProductName": "Hooker Casuals",
     "description": "Ellsbury",
-    "imgUrl":"Images/",
+    "imgUrl":"Images/casualWear.jpg",
     "price": "$420.16"
   }, {
     "id": 12,
-    "ProductName": "Southridge",
+    "ProductName": "Madam Tshirts Pack",
     "description": "Trotter",
-    "imgUrl":"Images/",
+    "imgUrl":"Images/EcoTshirt.jfif",
     "price": "$449.73"
   }, {
     "id": 13,
-    "ProductName": "Heffernan",
+    "ProductName": "Indoor Plant Kit",
     "description": "Capaldo",
-    "imgUrl":"Images/",
+    "imgUrl":"Images/PlantKit.jfif",
     "price": "$208.76"
   }, {
     "id": 14,
     "ProductName": "Autumn Leaf",
     "description": "Armin",
-    "imgUrl":"Images/",
+    "imgUrl":"Images/ecoShoes.jfif",
     "price": "$977.93"
   }, {
     "id": 15,
-    "ProductName": "Jenifer",
+    "ProductName": "Eco-Friendly Pens",
     "description": "Maslin",
-    "imgUrl":"Images/",
+    "imgUrl":"Images/ecoPens.jpg",
     "price": "$922.56"
   }, {
     "id": 16,
-    "ProductName": "Heath",
+    "ProductName": "Jute bag (Customizable)",
     "description": "Quin",
-    "imgUrl":"Images/",
+    "imgUrl":"Images/Businessmaker2.jpg",
     "price": "$935.13"
   }, {
     "id": 17,
-    "ProductName": "Swallow",
+    "ProductName": "Swallow Jute Bag",
     "description": "March",
-    "imgUrl":"Images/",
+    "imgUrl":"Images/Businessmaker.webp",
     "price": "$480.29"
   }, {
     "id": 18,
-    "ProductName": "Lawn",
+    "ProductName": "Lawn Pens (Customizable)",
     "description": "Sheards",
-    "imgUrl":"Images/",
+    "imgUrl":"Images/Custompen.jpg",
     "price": "$514.71"
   }, {
     "id": 19,
-    "ProductName": "Sundown",
+    "ProductName": "Sundown Dinners",
     "description": "Tench",
-    "imgUrl":"Images/",
+    "imgUrl":"Images/dinnerKit.jfif",
     "price": "$399.43"
   }, {
     "id": 20,
-    "ProductName": "Northfield",
+    "ProductName": "Northfield Plates",
     "description": "Roscamp",
-    "imgUrl":"Images/",
+    "imgUrl":"Images/ecoPlates.jfif",
     "price": "$679.27"
   }]
   
