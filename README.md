@@ -1,5 +1,5 @@
 # eco-bazaar
-
+https://dazzling-boyd-e760ac.netlify.app/
 1. react-app --- D
 2. host ---- D
 3. navbar --- A
