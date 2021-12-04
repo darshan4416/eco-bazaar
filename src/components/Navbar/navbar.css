@@ -107,9 +107,14 @@ a {
 	align-items: center;
 	flex-direction: row;
 	margin-left: 100px;
+	margin-right: 150px;
   }
   .basket{
 	color:#161637;
+	size: 30px;
+	font-size: 100px;
+	margin-bottom: 10px;
+	margin-right: 10px;
   }
   .cart_count{
 	color:#161637;
@@ -117,10 +122,13 @@ a {
 	font-size: 20px;
 	font-weight: 600;
 	margin-top: 3px;
+	padding: 7px;
+	/* padding-left: 5px; */
   }
   .counter{
-	width: 20px;
+	width: 30px;
 	padding: 2px;
 	background-color:lightblue;
-	border-radius: 80px;
+	border-radius: 50px;
+	margin-bottom: 15px;
   }

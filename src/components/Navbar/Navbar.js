@@ -1,6 +1,8 @@
 import React from 'react';
 import "./navbar.css";
 import { Link } from "react-router-dom";
+import ShoppingCart from '@material-ui/icons/ShoppingCart';
+
 function Navbar() {
     return (
         <>
@@ -9,11 +11,12 @@ function Navbar() {
         <ul className="main-nav">
           <li><Link to='/'>Home</Link></li>
           <li><Link to="/explore">Explore</Link></li>
-          <li><Link to="/login">Login</Link></li>
           <li><Link to="/register">Register</Link></li>
+          <li><Link to="/login">Login</Link></li>
           <li><Link to="/about">About</Link></li>
         </ul>
         <div className="basket-container">
+            <ShoppingCart className="basket"/>
                     <div className="counter">
                     <medium className="cart_count">0</medium>
                </div>
